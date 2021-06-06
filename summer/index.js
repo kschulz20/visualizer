@@ -1,3 +1,4 @@
+//NOTE: Currently can only add to heap, but not remove (not implemented until I'm sure insertion has no errors).
 class Node {
   constructor(name, priority) {
     //Array to hold nodes adjacent to this node.
